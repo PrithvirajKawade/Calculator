@@ -1,5 +1,9 @@
 # Calculator
 
+![Desktop Screenshot 2022 04 25 - 12 55 49 67](https://user-images.githubusercontent.com/98943274/165040527-e8f630a0-c7b3-46ec-bc74-2a5fa89bbe9e.png)
+
+link to the website: https://prithvirajkawade.github.io/Calculator/
+
 Description: Calculate your mathemathical problems whenever you want to!
 
 Difficulties:
